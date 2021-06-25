@@ -1,5 +1,5 @@
 # Snake-game
 ## Authors 
-  Nishoak
-  \n Vishwambar
-  \n Sainath
+ * Nishoak
+ * Vishwambar
+ * Sainath
